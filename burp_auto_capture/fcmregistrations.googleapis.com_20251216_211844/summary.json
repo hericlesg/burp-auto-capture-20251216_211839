@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20251216_211844", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fcmregistrations.googleapis.com_20251216_211844/request_001.txt", 
+      "url": "https://fcmregistrations.googleapis.com:443/v1/projects/esportivacrm/registrations", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/fcmregistrations.googleapis.com_20251216_211844/response_001.txt", 
+      "timestamp": 1765929483698
+    }
+  ], 
+  "host": "fcmregistrations.googleapis.com", 
+  "total_requests": 1
+}
